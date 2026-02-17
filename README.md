@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**Krigor-10/Krigor-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá! Eu sou o Krigor de Sousa
 
 - 🏫 Formação em Análise e desenvolvimento de sistema
 - 🔭 Atualmente estou trabalhando na area da tecnologia com suporte técnico de nível 1.
